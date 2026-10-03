@@ -13,7 +13,7 @@ Building software is what I enjoy most, especially when I can combine it with mo
   🔗 https://github.com/Parnia-Sheikhi/Car-Price-Prediction
 
 - **Vehicle-Image-Classifier**: MobileNetV2 transfer learning, 94% validation accuracy<br>
-  
+  🔗 https://github.com/Parnia-Sheikhi/vehicle-classifier
 
 ##  Software Engineering
 
