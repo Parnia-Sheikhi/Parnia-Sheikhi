@@ -15,7 +15,7 @@ Building software is what I enjoy most, especially when I can combine it with mo
 - **Vehicle-Image-Classifier**: MobileNetV2 transfer learning, 94% validation accuracy<br>
   
 
-## 🛠️ Software Engineering
+##  Software Engineering
 
 - **VillaBooking**: ASP.NET Core, versioned REST API, JWT role-based auth, EF Core / SQL Server<br>
   🔗 https://github.com/Parnia-Sheikhi/royalVilla
